@@ -1,0 +1,6 @@
+["21S01",1136,"Column count doesn't match value count at row 1"]
+["HY000",1366,"Incorrect integer value: '\u8303\u5fb7\u8428\u53d1\u6492\u653e\u5927\uff0c\u8303\u5fb7\u8428\u8303\u5fb7\u8428\uff0c \u8303\u5fb7\u8428\u8303\u5fb7\u8428\uff0c\u7684\u5e45\u5ea6\u8428\u82ac' for column 'ptime' at row 1"]
+["HY000",1366,"Incorrect integer value: '范德萨发撒放大，范德萨范德萨， 范德萨范德萨，的幅度萨芬' for column 'ptime' at row 1"]
+["HY093",null,null]
+["42S22",1054,"Unknown column 'img' in 'field list'"]
+["HY000",1366,"Incorrect string value: '\\xE1\\xD9\\xF9`\\xAA\\xEE...' for column 'docid' at row 1"]
